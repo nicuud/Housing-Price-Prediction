@@ -1,6 +1,7 @@
 # Housing-Price-Prediction
+
 \\Task Approach//:
-<---------------->
+
 [Understanding the Problem and Making Assumptions]:
 1) Problem Understanding: Review the dataset and its features to understand the context and objectives of predicting housing prices.
 2) Assumptions: Make assumptions about the influential factors affecting house prices (e.g., area, location, number of rooms) based on initial data exploration.
@@ -23,6 +24,7 @@
 [Presentation and Documentation]:
 1)Jupyter Notebook: Organize the analysis, code, visualizations, and conclusions in a Jupyter Notebook with proper markdown explanations.
 2) GitHub Repository: Upload the Jupyter Notebook to a GitHub repository for review, along with any necessary files or datasets used.
-<---------------->
+
+
 \\Conclusion//:
 The task involves comprehensive data analysis, cleaning, model building, and presentation to predict housing prices. Utilizing regression models, data cleaning techniques, exploratory data analysis, and model evaluation will be essential to fulfill the requirements within the given deadline.
