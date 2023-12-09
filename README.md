@@ -1,6 +1,5 @@
 # Housing-Price-Prediction
-
-\\Task Approach//:
+\Task Approach/:
 
 [Understanding the Problem and Making Assumptions]:
 
@@ -27,8 +26,8 @@
 
 [Presentation and Documentation]:
 
-1)Jupyter Notebook: Organize the analysis, code, visualizations, and conclusions in a Jupyter Notebook with proper markdown explanations.
+1) Jupyter Notebook: Organize the analysis, code, visualizations, and conclusions in a Jupyter Notebook with proper markdown explanations.
 2) GitHub Repository: Upload the Jupyter Notebook to a GitHub repository for review, along with any necessary files or datasets used.
 
-\\Conclusion//:
+\Conclusion/:
 The task involves comprehensive data analysis, cleaning, model building, and presentation to predict housing prices. Utilizing regression models, data cleaning techniques, exploratory data analysis, and model evaluation will be essential to fulfill the requirements within the given deadline.
